@@ -4,3 +4,11 @@ Linear algebra is among most important operations of the computational era, prov
 
 Understanding the concept of Linear algebra and underlying algorithm will result in a good understanding of how computers and operations work in the fields of machine learning, data science etc.
 
+## This repository is divided into 6 chapters:
+
+1. Chapter 1 : Introduction of Gaussian elemination and visualization for systems that have solution and didn't have a solution
+2. Chapter 2 : The property of matrix and visualization of vector and matrix operations.
+3. Chapter 3 : Introduce a formal defintion of what is known as a vector space over the real numbers.
+4. Chapter 4 : Introduce what is known as a linear transformation
+5. Chapter 5 : Introduce how to put a system of equations into matrix form
+6. Chapter 6 : Properties of complex numbers, vectors, and matrices. 
